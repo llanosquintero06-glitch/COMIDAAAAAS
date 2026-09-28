@@ -1,3 +1,7 @@
+pip install streamlit
+
+Import streamlit as st
+
 st.title("Mucha hambre o que pirobo")
 st.write("Diga a ver que tiene pa comer.")
 
